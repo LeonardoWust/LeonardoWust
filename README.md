@@ -15,9 +15,7 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na ULBRA - Torres/RS
 - 💻 Freelancer front-end na **Cresay**, agência de marketing — entrego sites e ajudo na prospecção de clientes
-- 🔧 Também trabalho no negócio da família, a **Central das Ferragens**
-- 🚀 Objetivo atual: transformar o freelance na Cresay na minha renda principal
-- 🌱 Estudando back-end (Node.js/Express) e banco de dados (MySQL) pra sair do front puro
+- 🚀 Objetivo atual: conseguir um estágio para entrar na área
 
 ---
 
@@ -29,7 +27,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
