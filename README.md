@@ -1,7 +1,9 @@
-<h1 align="center">Olá, eu sou o Leo 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:B91C1C&height=200&section=header&text=Leonardo%20Wust&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-end&descAlignY=58&descSize=20" width="100%" />
+</p>
 
 <p align="center">
-  Desenvolvedor Front-end em formação | Torres, RS - Brasil
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=600&lines=Torres%2C+RS+-+Brasil;Front-end+%7C+HTML+%C2%B7+CSS+%C2%B7+JS+%C2%B7+Git;Aprendendo+Node.js+%2B+MySQL;Freelancer+%40+Cresay+Ag%C3%AAncia" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +17,9 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na ULBRA - Torres/RS
 - 💻 Freelancer front-end na **Cresay**, agência de marketing — entrego sites e ajudo na prospecção de clientes
-- 🚀 Objetivo atual: conseguir um estágio para entrar na área
+- 🔧 Também trabalho no negócio da família, a **Central das Ferragens**
+- 🚀 Objetivo atual: transformar o freelance na Cresay na minha renda principal
+- 🌱 Estudando back-end (Node.js/Express) e banco de dados (MySQL) pra sair do front puro
 
 ---
 
@@ -49,11 +53,19 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoWust&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoWust&theme=radical" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoWust&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&ring_color=B91C1C" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoWust&hide_border=true&background=0D0D0D&stroke=B91C1C&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoWust&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=DC2626&text_color=FFFFFF" height="150" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,100:0D0D0D&height=100&section=footer" width="100%" />
+</p>
 
 <p align="center"><i>Aberto a oportunidades de freelance e parcerias em desenvolvimento web.</i></p>
