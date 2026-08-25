@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
@@ -55,11 +56,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeonardoWust&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&ring_color=B91C1C" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoWust&hide_border=true&background=0D0D0D&stroke=B91C1C&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoWust&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=DC2626&text_color=FFFFFF" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoWust&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=DC2626&text_color=FFFFFF" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LeonardoWust&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoWust&bg_color=0D0D0D&color=DC2626&line=B91C1C&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
