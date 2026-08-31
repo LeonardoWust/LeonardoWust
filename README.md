@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeonardoWust&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&ring_color=B91C1C" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoWust&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=DC2626&text_color=FFFFFF" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoWust&hide_border=true&background=0D0D0D&stroke=B91C1C&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" height="150" />
 </p>
 
 <p align="center">
