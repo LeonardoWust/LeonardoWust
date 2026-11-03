@@ -40,10 +40,10 @@
 ### 📌 Projetos em destaque
 
 **Cresay** — Site institucional da agência de marketing onde atuo como freelancer, com tema escuro e portfólio de serviços.
-🔗 [https://github.com/LeonardoWust/Cresay-Agencia](https://cresay.com.br)
+🔗 [https://github.com/LeonardoWust/Cresay-Agencia] (https://cresay.com.br)
 
 **Squad Magnus** — Landing page para personal trainer, projeto de cliente entregue via Cresay.
-🔗 [https://github.com/LeonardoWust/Squad-Magnus](https://squad-magnus.com.br/)
+🔗 [https://github.com/LeonardoWust/Squad-Magnus] (https://squad-magnus.com.br/)
 
 **API de Imóveis (em desenvolvimento)** — Backend em Node.js/Express com CRUD completo (GET, POST, PUT, DELETE), estudo aplicado de arquitetura de API antes de integrar com MySQL.
 
